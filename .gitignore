@@ -15,7 +15,6 @@ env/
 .venv311/
 .venv312/
 .venv2/
-.venv3/
 
 # Jupyter Notebookのチェックポイント
 .ipynb_checkpoints/
