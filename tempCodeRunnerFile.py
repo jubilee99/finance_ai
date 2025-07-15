@@ -1,0 +1,1 @@
+[self.feature_cols].tail(130)
